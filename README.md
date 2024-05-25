@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sk Sayed</h1>
+<h1 align="center">Hi 👋, I'm Sayed</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
 - 🌱 I’m currently learning **Tensorflow, Deep Learning, CNN**
