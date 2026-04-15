@@ -12,7 +12,7 @@
 
 ---
 
-I build **production-grade AI systems** — not prototypes.
+I build **production-grade AI systems**, not prototypes.
 
 Leading engineering at **MindTide**, building AI platforms like **SiteBot** and **BuzzCraft**.  
 Focused on **LLMs, RAG pipelines, and scalable backend systems**.
