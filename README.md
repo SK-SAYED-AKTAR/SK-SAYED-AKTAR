@@ -1,4 +1,5 @@
-# Sayed Akhtar
+<h1 align="center">👋 Hey, I'm Sayed</h1>
+
 ### Full-Stack AI Engineer • Building Real AI Products
 
 <p align="left">
