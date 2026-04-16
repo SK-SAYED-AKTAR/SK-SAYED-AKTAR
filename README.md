@@ -4,7 +4,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sk-sayed-aktar/">
-    <img src="https://img.shields.io/badge/LinkedIn-Sayed%20Akhtar-0A66C2?style=flat&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Sk%20Sayed%20Aktar-0A66C2?style=flat&logo=linkedin" />
   </a>
   <a href="mailto:sksayedaktar1@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat&logo=gmail" />
